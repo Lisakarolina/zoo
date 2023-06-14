@@ -84,10 +84,10 @@ WSGI_APPLICATION = 'virtualZoo.wsgi.application'
 DATABASES = {
     # 'default': {
     #     'ENGINE': 'django.db.backends.postgresql',
-    #     'NAME': 'railway',
+    #     'NAME': '',
     #     'USER': 'postgres',
-    #     'PASSWORD': 'Fjpudhi0wbETC5fBCNhS',
-    #     'HOST': 'containers-us-west-169.railway.app',
+    #     'PASSWORD': '',
+    #     'HOST': '',
     #     'PORT': '6705'
     # } 
     'default': {
